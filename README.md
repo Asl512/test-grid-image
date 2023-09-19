@@ -5,7 +5,7 @@
 ## Resources
 
 - [Api Rick and Morty](https://rickandmortyapi.com/documentation/)
-- [Скачать APK](https://gitlab.com/Asl2000/test-grid-image/-/blob/main/build/app/outputs/flutter-apk/test_grip_image.apk?ref_type=heads)
+- [Скачать APK](https://github.com/Asl512/test-grid-image/blob/main/build/app/outputs/flutter-apk/test_grip_image.apk)
 
 ## Stack
 
