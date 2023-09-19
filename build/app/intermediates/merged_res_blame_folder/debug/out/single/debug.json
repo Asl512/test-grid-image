@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/drawable_launch_background.xml.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/xml_filepaths.xml.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-merged_res-25:/xml_network_security_config.xml.flat",
+        "source": "/Users/aslankucherbayev/.gradle/daemon/7.5/com.example.test_grid_images.app-main-19:/xml/network_security_config.xml"
+    }
+]

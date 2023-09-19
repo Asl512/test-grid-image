@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.test_grid_images"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:7:5-80
+13-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+14-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:8:5-82
+14-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:8:22-79
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.test_grid_images.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.test_grid_images.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+21
+22    <application
+23        android:name="android.app.Application"
+23-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:13:9-42
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:14:9-43
+26        android:label="Test Grid Images"
+26-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:11:9-41
+27        android:requestLegacyExternalStorage="true" >
+27-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:12:9-52
+28        <activity
+28-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:15:9-31:20
+29            android:name="com.example.test_grid_images.MainActivity"
+29-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:16:13-41
+30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+30-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:20:13-163
+31            android:exported="true"
+31-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:17:13-36
+32            android:hardwareAccelerated="true"
+32-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:21:13-47
+33            android:launchMode="singleTop"
+33-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:18:13-43
+34            android:theme="@style/LaunchTheme"
+34-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:19:13-47
+35            android:windowSoftInputMode="adjustResize" >
+35-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:22:13-55
+36            <meta-data
+36-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:23:13-26:17
+37                android:name="io.flutter.embedding.android.NormalTheme"
+37-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:24:15-70
+38                android:resource="@style/NormalTheme" />
+38-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:25:15-52
+39
+40            <intent-filter>
+40-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:27:13-30:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:28:17-68
+41-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:28:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:29:17-76
+43-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:29:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <meta-data
+47-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:32:9-34:33
+48            android:name="flutterEmbedding"
+48-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:33:13-44
+49            android:value="2" />
+49-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:34:13-30
+50
+51        <provider
+52            android:name="androidx.core.content.FileProvider"
+52-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:37:13-62
+53            android:authorities="com.example.test_grid_images.fileProvider"
+53-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:38:13-64
+54            android:exported="false"
+54-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:39:13-37
+55            android:grantUriPermissions="true" >
+55-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:40:13-47
+56            <meta-data
+56-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:42:13-45:52
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:43:17-67
+58                android:resource="@xml/filepaths" />
+58-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:44:17-50
+59        </provider>
+60        <provider
+60-->[:open_file] /Users/aslankucherbayev/StudioProjects/test_grid_images/build/open_file/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-20:20
+61            android:name="com.crazecoder.openfile.FileProvider"
+61-->[:open_file] /Users/aslankucherbayev/StudioProjects/test_grid_images/build/open_file/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-64
+62            android:authorities="com.example.test_grid_images.fileProvider.com.crazecoder.openfile"
+62-->[:open_file] /Users/aslankucherbayev/StudioProjects/test_grid_images/build/open_file/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-88
+63            android:exported="false"
+63-->[:open_file] /Users/aslankucherbayev/StudioProjects/test_grid_images/build/open_file/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-37
+64            android:grantUriPermissions="true" >
+64-->[:open_file] /Users/aslankucherbayev/StudioProjects/test_grid_images/build/open_file/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-47
+65            <meta-data
+65-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:42:13-45:52
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:43:17-67
+67                android:resource="@xml/filepaths" />
+67-->/Users/aslankucherbayev/StudioProjects/test_grid_images/android/app/src/main/AndroidManifest.xml:44:17-50
+68        </provider>
+69
+70        <uses-library
+70-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+71            android:name="androidx.window.extensions"
+71-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+72            android:required="false" />
+72-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+73        <uses-library
+73-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+74            android:name="androidx.window.sidecar"
+74-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+75            android:required="false" />
+75-->[androidx.window:window:1.0.0-beta04] /Users/aslankucherbayev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+79            android:authorities="com.example.test_grid_images.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.2.0] /Users/aslankucherbayev/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aslankucherbayev/.gradle/caches/transforms-3/8c1e738388b632b23acecc5b0cf3e292/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aslankucherbayev/.gradle/caches/transforms-3/8c1e738388b632b23acecc5b0cf3e292/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aslankucherbayev/.gradle/caches/transforms-3/8c1e738388b632b23acecc5b0cf3e292/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+87        </provider>
+88    </application>
+89
+90</manifest>
